@@ -114,4 +114,4 @@ If you build something from this list, open an issue and tell us — we'd love t
 
 ---
 
-*Built with [Claude Code](https://claude.ai/code) 🤖*
+*Built by [Ziad](https://ziad.us) with [Claude Code](https://claude.ai/code) 🤖*
