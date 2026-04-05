@@ -1,14 +1,22 @@
+<div align="center">
+
 # 🧠 50 Niche App Ideas Nobody Is Building
 
-> An open-source index of **real market gaps** — validated, actionable app ideas you can build this weekend.
+**An open-source index of real market gaps — validated, actionable app ideas you can build this weekend.**
 
-These aren't "build a todo app" ideas. These are **specific pain points** for specific people who are currently using sticky notes, WhatsApp groups, and prayer to run their businesses.
+These aren't "build a todo app" ideas. These are **specific pain points** for specific people<br/>who are currently using sticky notes, WhatsApp groups, and prayer to run their businesses.
 
-Every idea was researched against real Reddit complaints, forum discussions, and industry gaps. Every idea can be built with free-tier infrastructure.
+Every idea was researched against real Reddit complaints, forum discussions, and industry gaps.<br/>Every idea can be built with free-tier infrastructure.
 
-**Pick one. Build it. Ship it. Make money.**
+### Pick one. Build it. Ship it. Make money. 💸
 
 ---
+
+[📋 Browse All Ideas](INDEX.md) · [📁 Explore Ideas Folder](ideas/) · [🤝 Contribute](#-contributing)
+
+---
+
+</div>
 
 ## 🗂️ What's Inside
 
@@ -18,7 +26,9 @@ Every idea was researched against real Reddit complaints, forum discussions, and
 📄 README.md       ← You are here
 ```
 
-Each idea file includes:
+<div align="center">
+
+### Each idea file includes:
 
 | Section | What it tells you |
 |---------|-------------------|
@@ -30,7 +40,11 @@ Each idea file includes:
 | 💰 **Revenue Model** | How it makes money from day one |
 | 📊 **Difficulty** | Easy or Medium — no Hard |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌍 Market Coverage
 
@@ -39,9 +53,13 @@ Each idea file includes:
 | 🇺🇸 US / Global | 38 |
 | 🇦🇪 UAE / Middle East | 12 |
 
+</div>
+
 ---
 
-## 📦 Categories at a Glance
+<div align="center">
+
+## 📦 Categories
 
 | | Category | # |
 |---|----------|---|
@@ -63,11 +81,17 @@ Each idea file includes:
 | 📚 | Education (study groups) | 1 |
 | 🧠 | Mental Wellness (shift worker debrief) | 1 |
 | 🌐 | Language & Culture (heritage language, diaspora events) | 2 |
-| 🇦🇪 | UAE-specific (e-commerce, healthcare, F&B, automotive, maritime, beauty, creators, finance) | 12 |
+| 🇦🇪 | UAE-specific (e-commerce, healthcare, F&B, auto, maritime, beauty, creators, finance) | 12 |
+
+</div>
 
 ---
 
+<div align="center">
+
 ## ⚡ The Rules — Every Idea Passes These
+
+</div>
 
 1. **Zero logistics** — purely digital, no physical goods
 2. **Zero capital** — launchable on free tiers (Vercel, Supabase, Cloudflare)
@@ -79,7 +103,11 @@ Each idea file includes:
 
 ---
 
+<div align="center">
+
 ## 🚀 How to Use This
+
+</div>
 
 1. **Browse** → Open [`INDEX.md`](INDEX.md) or explore the [`ideas/`](ideas/) folder
 2. **Pick** → Find one that excites you (or matches your expertise)
@@ -90,7 +118,11 @@ No attribution required. No license restrictions. Just build something useful.
 
 ---
 
+<div align="center">
+
 ## 🤝 Contributing
+
+</div>
 
 Got a niche gap nobody is building for? Open a PR!
 
@@ -104,14 +136,22 @@ Follow the format in any existing idea file.
 
 ---
 
+<div align="center">
+
 ## 💬 Why Open Source This?
+
+</div>
 
 Ideas are cheap. Execution is everything. The world has enough "idea guys" hoarding half-baked concepts in private Notion pages.
 
 These gaps are **real**. People are **suffering** with spreadsheets and sticky notes **right now**. The faster someone builds these, the better.
 
-If you build something from this list, open an issue and tell us — we'd love to see it.
+If you build something from this list, open an issue and tell us — we'd love to see it. ⭐
 
 ---
 
-*Built by [Ziad](https://ziad.us) with [Claude Code](https://claude.ai/code) 🤖*
+<div align="center">
+
+*Built with ❤️ by [Ziad](https://ziad.us) with [Claude Code](https://claude.ai/code)*
+
+</div>
